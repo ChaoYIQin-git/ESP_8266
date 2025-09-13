@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stm32f10x.h": "c",
+        "oled.h": "c",
+        "led.h": "c",
+        "esp.h": "c",
+        "serial.h": "c",
+        "delay.h": "c"
+    }
+}
